@@ -1,0 +1,30 @@
+
+.color1{
+    margin:2px;
+    border:2px solid green;
+    margin-bottom: 1.5px;
+    border-top-width: 10px;
+    margin-left: 3px;
+    background-color: darkgray;
+}
+h1{
+    margin: 0.5;
+    border:5px dotted brown;
+    width: 50%;
+    background-color: cornflowerblue;
+    padding:1%;
+    margin-top: 1.5em;
+    margin-bottom: 3em;
+    margin-left:1em ;
+    border-top-width: 10px;
+}
+h3{
+    color:green;
+    font-size:30px;
+}
+p{
+    font-size:20px;
+    background-color: cadetblue;
+    width:100%;
+    margin: 0.5;
+}
